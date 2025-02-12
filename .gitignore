@@ -7,4 +7,4 @@ venv/
 .env
 .idea/
 .vscode/
-
+ .java/playwright-testng-saucedemo/target/
