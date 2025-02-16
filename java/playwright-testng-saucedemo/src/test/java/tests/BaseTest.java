@@ -1,4 +1,4 @@
-package com.saucedemo.tests;
+package tests;
 
 import com.microsoft.playwright.*;
 import org.testng.annotations.AfterClass;

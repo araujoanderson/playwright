@@ -1,6 +1,6 @@
-package com.saucedemo.tests;
+package tests;
 
-import com.saucedemo.pages.LoginPage;
+import pages.LoginPage;
 import org.testng.annotations.Test;
 import org.testng.Assert;
 
